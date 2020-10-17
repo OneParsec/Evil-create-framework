@@ -1,4 +1,4 @@
-# Evil-create-framework
+# EVIL_CREATE_FRAMEWORK
 # (C)Copyright 2018 LOoLzeC Scurity
 <br>
 tools to make viruses simple
