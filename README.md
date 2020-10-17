@@ -1,12 +1,9 @@
 # EVIL_CREATE_FRAMEWORK
 # (C)Copyright 2018 LOoLzeC Scurity
-<br>
 tools to make viruses simple
-<br>
-```$ git clone https://github.com/LOoLzeC/Evil-create-framework.git
-<br>
+```bash
+$ git clone https://github.com/LOoLzeC/Evil-create-framework.git
 $ cd Evil-create-framework
-<br>
 $ sh install.sh
 ```
 <br>
