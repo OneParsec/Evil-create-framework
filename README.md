@@ -1,8 +1,8 @@
 # EVIL_CREATE_FRAMEWORK
-# (C)Copyright 2018 LOoLzeC Scurity
+# (C)Copyright 2018 LOoLzeC Security
 tools to make viruses simple
 ```bash
-$ git clone https://github.com/LOoLzeC/Evil-create-framework.git
+$ git clone https://github.com/OneParsec/Evil-create-framework.git
 $ cd Evil-create-framework
 $ sh install.sh
 ```
@@ -22,3 +22,4 @@ facebook : facebook.com/ctl.gaul
 <br>
 # Thanks to
 # Blackhole Scurity
+# OneParsec
