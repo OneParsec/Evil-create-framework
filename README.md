@@ -6,12 +6,13 @@ $ git clone https://github.com/OneParsec/Evil-create-framework.git
 $ cd Evil-create-framework
 $ sh install.sh
 ```
-<br>
-<br>
+
 # Simple commands
+
 ```vcrt
 vcrt > show options
 ```
+
 REPORT ME BUG ON INSTAGRAM
 # Contact
 
