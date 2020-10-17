@@ -20,6 +20,6 @@ instagram : @yungreyyxrist
 <br>
 facebook : facebook.com/ctl.gaul
 <br>
-# Thanks to
-# Blackhole Scurity
-# OneParsec
+## Thanks to
+## Blackhole Scurity
+## OneParsec
